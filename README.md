@@ -1,6 +1,8 @@
 ## What Is It?
 
-This script allows you to bring head tracking into Unity using [AITrack](https://github.com/AIRLegend/aitrack), which allows for the tracking of your head using a variety of tools, including webcams and phones. This script receives information from AITrack and outputs basic position and rotation information that can be applied directly to a transform (such as a head).
+This script allows you to bring head tracking into Unity using [AITrack](https://github.com/AIRLegend/aitrack), which allows for the tracking of your head using a variety of tools, including webcams and phones. This script receives information from AITrack and outputs basic position and rotation information that can be applied directly to a transform (such as a head). You can see a demo here:
+
+[![AITrackReceiver Demo](https://img.youtube.com/vi/586IDJlAw2M/0.jpg)](https://www.youtube.com/watch?v=586IDJlAw2M)
 
 ### Requirements
 
